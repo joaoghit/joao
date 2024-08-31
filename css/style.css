@@ -92,4 +92,6 @@ footer{
     border-radius: 5px;
     transition: 5s;
  }
- 
+ .btn:hover{
+    background-color:#770b0b
+ }
